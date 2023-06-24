@@ -38,7 +38,7 @@ int main()
 
 
   // Q2
-/*
+
   int ch,n_1,n_2,add,sub,mult;
   float div;
 
@@ -69,7 +69,7 @@ int main()
       default:printf("divition = %f\n",div);
   }
 
-*/
+
 
    // Q1 using switch
 
